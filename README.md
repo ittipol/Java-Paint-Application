@@ -1,1 +1,1 @@
-# java-paint
+Paint program use java to create
